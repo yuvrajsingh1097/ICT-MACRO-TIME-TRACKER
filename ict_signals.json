@@ -1,0 +1,192 @@
+{
+  "signals": [
+    {
+      "timestamp": "2026-04-20T17:18:29.575444",
+      "pair": "EURUSD",
+      "signal_type": "ORDER_BLOCK",
+      "entry_price": 1.105,
+      "stop_loss": 1.099475,
+      "take_profit": 1.11605,
+      "confidence": 82.0,
+      "strength": 8.5,
+      "description": "Strong institutional order block detected",
+      "indicators": {
+        "block_strength": 8.5,
+        "order_density": 0.7618030200518929,
+        "volume_ratio": 1.3388175100481254
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:18:29.575656",
+      "pair": "GBPUSD",
+      "signal_type": "BUY",
+      "entry_price": 1.375,
+      "stop_loss": 1.370875,
+      "take_profit": 1.38875,
+      "confidence": 85.0,
+      "strength": 8.5,
+      "description": "Bullish liquidity grab detected - stops cleared",
+      "indicators": {
+        "grab_type": "bullish",
+        "wick_ratio": 2.735954602159464,
+        "close_direction": "up",
+        "volume_spike": 1.7990882556991181
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:18:29.575671",
+      "pair": "USDJPY",
+      "signal_type": "STRONG_BUY",
+      "entry_price": 109.5,
+      "stop_loss": 109.062,
+      "take_profit": 110.814,
+      "confidence": 88.0,
+      "strength": 7.9,
+      "description": "Confluence zone detected with 3 confluent indicators",
+      "indicators": {
+        "RSI_Oversold": true,
+        "Support_Level": true,
+        "Volume_Spike": true
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:18:29.575676",
+      "pair": "AUDUSD",
+      "signal_type": "SUPPORT_BOUNCE",
+      "entry_price": 0.72,
+      "stop_loss": 0.71568,
+      "take_profit": 0.7308,
+      "confidence": 80.0,
+      "strength": 7.0,
+      "description": "Price bouncing from support level with institutional demand",
+      "indicators": {
+        "level_type": "support",
+        "bounces": 3,
+        "volume_profile": "high",
+        "holding_strength": 0.8301230129354245
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:18:29.576038",
+      "pair": "USDCAD",
+      "signal_type": "RESISTANCE_BOUNCE",
+      "entry_price": 1.25,
+      "stop_loss": 1.2575,
+      "take_profit": 1.23125,
+      "confidence": 78.0,
+      "strength": 7.0,
+      "description": "Price bouncing from resistance level with institutional demand",
+      "indicators": {
+        "level_type": "resistance",
+        "bounces": 3,
+        "volume_profile": "high",
+        "holding_strength": 0.8116073248499884
+      },
+      "timeframe": "4H",
+      "severity": "LOW"
+    },
+    {
+      "timestamp": "2026-04-20T17:20:32.753526",
+      "pair": "EURUSD",
+      "signal_type": "ORDER_BLOCK",
+      "entry_price": 1.105,
+      "stop_loss": 1.099475,
+      "take_profit": 1.11605,
+      "confidence": 82.0,
+      "strength": 8.5,
+      "description": "Strong institutional order block detected",
+      "indicators": {
+        "block_strength": 8.5,
+        "order_density": 0.8250095279633335,
+        "volume_ratio": 1.6921600705775877
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:20:32.753667",
+      "pair": "GBPUSD",
+      "signal_type": "BUY",
+      "entry_price": 1.375,
+      "stop_loss": 1.370875,
+      "take_profit": 1.38875,
+      "confidence": 85.0,
+      "strength": 8.5,
+      "description": "Bullish liquidity grab detected - stops cleared",
+      "indicators": {
+        "grab_type": "bullish",
+        "wick_ratio": 2.841390547376208,
+        "close_direction": "up",
+        "volume_spike": 1.73468677758319
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:20:32.753681",
+      "pair": "USDJPY",
+      "signal_type": "STRONG_BUY",
+      "entry_price": 109.5,
+      "stop_loss": 109.062,
+      "take_profit": 110.814,
+      "confidence": 88.0,
+      "strength": 7.9,
+      "description": "Confluence zone detected with 3 confluent indicators",
+      "indicators": {
+        "RSI_Oversold": true,
+        "Support_Level": true,
+        "Volume_Spike": true
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:20:32.753685",
+      "pair": "AUDUSD",
+      "signal_type": "SUPPORT_BOUNCE",
+      "entry_price": 0.72,
+      "stop_loss": 0.71568,
+      "take_profit": 0.7308,
+      "confidence": 80.0,
+      "strength": 7.0,
+      "description": "Price bouncing from support level with institutional demand",
+      "indicators": {
+        "level_type": "support",
+        "bounces": 4,
+        "volume_profile": "high",
+        "holding_strength": 0.7007576004644438
+      },
+      "timeframe": "4H",
+      "severity": "MEDIUM"
+    },
+    {
+      "timestamp": "2026-04-20T17:20:32.754017",
+      "pair": "USDCAD",
+      "signal_type": "RESISTANCE_BOUNCE",
+      "entry_price": 1.25,
+      "stop_loss": 1.2575,
+      "take_profit": 1.23125,
+      "confidence": 78.0,
+      "strength": 7.0,
+      "description": "Price bouncing from resistance level with institutional demand",
+      "indicators": {
+        "level_type": "resistance",
+        "bounces": 4,
+        "volume_profile": "high",
+        "holding_strength": 0.7404663451411145
+      },
+      "timeframe": "4H",
+      "severity": "LOW"
+    }
+  ],
+  "last_updated": "2026-04-20T17:20:34.780150",
+  "total_signals": 10
+}
